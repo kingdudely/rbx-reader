@@ -8,6 +8,7 @@ A module that allows for reading of `.rbxm` and `.rbxl` files.
 > - rbx-reader-ts
 > - rbx-api-ts
 > - solara-websocket-dll (wow)
+> 
 > These are all carbon copies of this module with an obfuscated JS script added to it.
 > Don't use these, and spread the word (and yes I reported them).
 
